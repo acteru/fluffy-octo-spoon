@@ -10,7 +10,7 @@ config_version=3
 
 [application]
 
-config/name="congenial-giggle"
+config/name="fluffy-octo-spoon"
 config/icon="res://icon.png"
 
 [rendering]
